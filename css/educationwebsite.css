@@ -119,6 +119,7 @@ min-width: 180px;
   margin-bottom: 20px;
 
 }
+
 @media (max-width: 699px) {
   .responsive-hide-small {
     display: none;
